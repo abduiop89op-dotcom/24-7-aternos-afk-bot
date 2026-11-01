@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "PakSuperMc.aternos.me",
-    "port": 58457,
+    "ip": "DominatorsMC.aternos.me",
+    "port": 34608,
     "version": "1.20.1",
     "try-creative": false
   },
